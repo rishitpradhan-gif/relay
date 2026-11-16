@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-11-16T23:02:09.826Z",
+  "base": "http://127.0.0.1:4464/",
+  "browser": "Chrome via Playwright",
+  "checks": [
+    "cover branches respond to both answers",
+    "guide, photo and inserted step persist after reload",
+    "walkthrough, backtracking and versioned receipt download",
+    "downloaded single-file guide runs and exports receipts with network disabled",
+    "invalid drafts can be backed up and restored without being executable",
+    "imported HTML-like content stays inert in the exported guide",
+    "cover and editor fit 390, 768 and 1440 pixel viewports",
+    "no uncaught page errors or third-party requests"
+  ],
+  "limitations": "Automated Chromium checks only; no user study or assistive-technology certification."
+}

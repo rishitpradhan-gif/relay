@@ -1,0 +1,816 @@
+{
+  "schema": "relay-structural-evaluation/1",
+  "seed": 271828,
+  "generator": "LCG 1664525/1013904223 unsigned 32-bit",
+  "graphs": 100,
+  "completed_routes": 1000,
+  "transitions": 9050,
+  "mutated_invalid_graphs_rejected": 200,
+  "source_hashes": {
+    "public/core.mjs": "9c7c63c8ae314415412999bf3818a21cd16d0c796c671f9c14211a8e6bac209d",
+    "scripts/evaluate.mjs": "84040429b12121dcdf5853e875328eee6f6bb9a1f1675eb39f2a69d0ca5a776c"
+  },
+  "records": [
+    {
+      "case": 0,
+      "nodes": 49,
+      "completed_routes": 10,
+      "transitions": 57,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 1,
+      "nodes": 35,
+      "completed_routes": 10,
+      "transitions": 95,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 2,
+      "nodes": 10,
+      "completed_routes": 10,
+      "transitions": 35,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 3,
+      "nodes": 11,
+      "completed_routes": 10,
+      "transitions": 40,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 4,
+      "nodes": 47,
+      "completed_routes": 10,
+      "transitions": 152,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 5,
+      "nodes": 66,
+      "completed_routes": 10,
+      "transitions": 127,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 6,
+      "nodes": 19,
+      "completed_routes": 10,
+      "transitions": 73,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 7,
+      "nodes": 49,
+      "completed_routes": 10,
+      "transitions": 84,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 8,
+      "nodes": 63,
+      "completed_routes": 10,
+      "transitions": 57,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 9,
+      "nodes": 80,
+      "completed_routes": 10,
+      "transitions": 123,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 10,
+      "nodes": 80,
+      "completed_routes": 10,
+      "transitions": 145,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 11,
+      "nodes": 79,
+      "completed_routes": 10,
+      "transitions": 72,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 12,
+      "nodes": 12,
+      "completed_routes": 10,
+      "transitions": 58,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 13,
+      "nodes": 15,
+      "completed_routes": 10,
+      "transitions": 59,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 14,
+      "nodes": 24,
+      "completed_routes": 10,
+      "transitions": 62,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 15,
+      "nodes": 6,
+      "completed_routes": 10,
+      "transitions": 44,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 16,
+      "nodes": 44,
+      "completed_routes": 10,
+      "transitions": 120,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 17,
+      "nodes": 33,
+      "completed_routes": 10,
+      "transitions": 85,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 18,
+      "nodes": 70,
+      "completed_routes": 10,
+      "transitions": 67,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 19,
+      "nodes": 15,
+      "completed_routes": 10,
+      "transitions": 80,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 20,
+      "nodes": 45,
+      "completed_routes": 10,
+      "transitions": 81,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 21,
+      "nodes": 40,
+      "completed_routes": 10,
+      "transitions": 124,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 22,
+      "nodes": 41,
+      "completed_routes": 10,
+      "transitions": 119,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 23,
+      "nodes": 51,
+      "completed_routes": 10,
+      "transitions": 87,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 24,
+      "nodes": 74,
+      "completed_routes": 10,
+      "transitions": 106,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 25,
+      "nodes": 51,
+      "completed_routes": 10,
+      "transitions": 89,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 26,
+      "nodes": 63,
+      "completed_routes": 10,
+      "transitions": 148,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 27,
+      "nodes": 41,
+      "completed_routes": 10,
+      "transitions": 99,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 28,
+      "nodes": 27,
+      "completed_routes": 10,
+      "transitions": 75,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 29,
+      "nodes": 62,
+      "completed_routes": 10,
+      "transitions": 133,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 30,
+      "nodes": 52,
+      "completed_routes": 10,
+      "transitions": 116,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 31,
+      "nodes": 20,
+      "completed_routes": 10,
+      "transitions": 147,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 32,
+      "nodes": 39,
+      "completed_routes": 10,
+      "transitions": 101,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 33,
+      "nodes": 67,
+      "completed_routes": 10,
+      "transitions": 137,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 34,
+      "nodes": 78,
+      "completed_routes": 10,
+      "transitions": 66,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 35,
+      "nodes": 72,
+      "completed_routes": 10,
+      "transitions": 123,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 36,
+      "nodes": 20,
+      "completed_routes": 10,
+      "transitions": 85,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 37,
+      "nodes": 21,
+      "completed_routes": 10,
+      "transitions": 56,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 38,
+      "nodes": 60,
+      "completed_routes": 10,
+      "transitions": 107,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 39,
+      "nodes": 42,
+      "completed_routes": 10,
+      "transitions": 90,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 40,
+      "nodes": 38,
+      "completed_routes": 10,
+      "transitions": 121,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 41,
+      "nodes": 44,
+      "completed_routes": 10,
+      "transitions": 62,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 42,
+      "nodes": 38,
+      "completed_routes": 10,
+      "transitions": 116,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 43,
+      "nodes": 50,
+      "completed_routes": 10,
+      "transitions": 79,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 44,
+      "nodes": 40,
+      "completed_routes": 10,
+      "transitions": 125,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 45,
+      "nodes": 51,
+      "completed_routes": 10,
+      "transitions": 75,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 46,
+      "nodes": 27,
+      "completed_routes": 10,
+      "transitions": 99,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 47,
+      "nodes": 37,
+      "completed_routes": 10,
+      "transitions": 108,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 48,
+      "nodes": 11,
+      "completed_routes": 10,
+      "transitions": 60,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 49,
+      "nodes": 76,
+      "completed_routes": 10,
+      "transitions": 135,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 50,
+      "nodes": 55,
+      "completed_routes": 10,
+      "transitions": 104,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 51,
+      "nodes": 22,
+      "completed_routes": 10,
+      "transitions": 83,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 52,
+      "nodes": 41,
+      "completed_routes": 10,
+      "transitions": 115,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 53,
+      "nodes": 41,
+      "completed_routes": 10,
+      "transitions": 90,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 54,
+      "nodes": 13,
+      "completed_routes": 10,
+      "transitions": 30,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 55,
+      "nodes": 46,
+      "completed_routes": 10,
+      "transitions": 119,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 56,
+      "nodes": 30,
+      "completed_routes": 10,
+      "transitions": 74,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 57,
+      "nodes": 18,
+      "completed_routes": 10,
+      "transitions": 60,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 58,
+      "nodes": 19,
+      "completed_routes": 10,
+      "transitions": 83,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 59,
+      "nodes": 21,
+      "completed_routes": 10,
+      "transitions": 49,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 60,
+      "nodes": 74,
+      "completed_routes": 10,
+      "transitions": 84,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 61,
+      "nodes": 28,
+      "completed_routes": 10,
+      "transitions": 88,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 62,
+      "nodes": 58,
+      "completed_routes": 10,
+      "transitions": 92,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 63,
+      "nodes": 10,
+      "completed_routes": 10,
+      "transitions": 48,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 64,
+      "nodes": 34,
+      "completed_routes": 10,
+      "transitions": 100,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 65,
+      "nodes": 40,
+      "completed_routes": 10,
+      "transitions": 139,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 66,
+      "nodes": 70,
+      "completed_routes": 10,
+      "transitions": 83,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 67,
+      "nodes": 61,
+      "completed_routes": 10,
+      "transitions": 107,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 68,
+      "nodes": 21,
+      "completed_routes": 10,
+      "transitions": 47,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 69,
+      "nodes": 38,
+      "completed_routes": 10,
+      "transitions": 76,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 70,
+      "nodes": 69,
+      "completed_routes": 10,
+      "transitions": 116,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 71,
+      "nodes": 6,
+      "completed_routes": 10,
+      "transitions": 32,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 72,
+      "nodes": 60,
+      "completed_routes": 10,
+      "transitions": 151,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 73,
+      "nodes": 18,
+      "completed_routes": 10,
+      "transitions": 91,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 74,
+      "nodes": 50,
+      "completed_routes": 10,
+      "transitions": 107,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 75,
+      "nodes": 42,
+      "completed_routes": 10,
+      "transitions": 84,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 76,
+      "nodes": 53,
+      "completed_routes": 10,
+      "transitions": 67,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 77,
+      "nodes": 13,
+      "completed_routes": 10,
+      "transitions": 45,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 78,
+      "nodes": 63,
+      "completed_routes": 10,
+      "transitions": 103,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 79,
+      "nodes": 80,
+      "completed_routes": 10,
+      "transitions": 76,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 80,
+      "nodes": 50,
+      "completed_routes": 10,
+      "transitions": 71,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 81,
+      "nodes": 9,
+      "completed_routes": 10,
+      "transitions": 61,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 82,
+      "nodes": 15,
+      "completed_routes": 10,
+      "transitions": 79,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 83,
+      "nodes": 62,
+      "completed_routes": 10,
+      "transitions": 71,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 84,
+      "nodes": 8,
+      "completed_routes": 10,
+      "transitions": 47,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 85,
+      "nodes": 74,
+      "completed_routes": 10,
+      "transitions": 68,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 86,
+      "nodes": 16,
+      "completed_routes": 10,
+      "transitions": 87,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 87,
+      "nodes": 39,
+      "completed_routes": 10,
+      "transitions": 79,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 88,
+      "nodes": 27,
+      "completed_routes": 10,
+      "transitions": 69,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 89,
+      "nodes": 23,
+      "completed_routes": 10,
+      "transitions": 80,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 90,
+      "nodes": 66,
+      "completed_routes": 10,
+      "transitions": 121,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 91,
+      "nodes": 60,
+      "completed_routes": 10,
+      "transitions": 133,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 92,
+      "nodes": 44,
+      "completed_routes": 10,
+      "transitions": 94,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 93,
+      "nodes": 10,
+      "completed_routes": 10,
+      "transitions": 71,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 94,
+      "nodes": 65,
+      "completed_routes": 10,
+      "transitions": 184,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 95,
+      "nodes": 74,
+      "completed_routes": 10,
+      "transitions": 132,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 96,
+      "nodes": 10,
+      "completed_routes": 10,
+      "transitions": 34,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 97,
+      "nodes": 46,
+      "completed_routes": 10,
+      "transitions": 118,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 98,
+      "nodes": 46,
+      "completed_routes": 10,
+      "transitions": 86,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    },
+    {
+      "case": 99,
+      "nodes": 31,
+      "completed_routes": 10,
+      "transitions": 118,
+      "cycle_rejected": true,
+      "missing_destination_rejected": true
+    }
+  ],
+  "scope": "Deterministic generated graph tests. Covers topology and replay invariants, not real-world instruction accuracy, usability, clinical use, or security certification."
+}
